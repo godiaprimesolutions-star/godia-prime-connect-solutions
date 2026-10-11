@@ -8,5 +8,5 @@ database_name = "godia-prime-connect-db"
 database_id = "df807af2-a3b0-49af-8a75-bacc9d3b8b83"
 
 [assets]
-directory = "./"
+directory = "./public"
 binding = "ASSETS"
